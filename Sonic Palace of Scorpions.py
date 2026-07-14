@@ -10,7 +10,7 @@ st.write("Aqui teremos in formações sobre as músicas da HQ:")
 st.divider()
 st.subheader("Primeira música: Year Zero:")
 st.html('<div id="year-zero"></div>')
-st.video("C:\Users\lulu9\Downloads\lv_0_20260712164740.mkv")
+st.video("Audio/Musicas/lv_0_20260712164740.mkv")
 st.caption("Vídeo da música Year Zero")
 conteudo_site = ["Bem vindosao site oficial de Sonic Palace of Scorpions!", "rimeira música: Year Zero:", "Vídeo da música Year Zero"]
 if pesquisa:
