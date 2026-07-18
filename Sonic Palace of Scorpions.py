@@ -14,7 +14,7 @@ st.divider()
 
 st.subheader("Primeira música: Year Zero:")
 st.html('<div id="year-zero"></div>')
-st.video("/home/lc_4444/Documentos/python/sites/HQ/Audio/Musicas/lv_0_20260712164740.mp4")
+st.video("Musicas/lv_0_20260712164740.mp4")
 st.caption("Vídeo da música Year Zero")
 
 conteudo_site = [
