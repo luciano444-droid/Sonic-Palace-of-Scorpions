@@ -16,10 +16,12 @@ st.subheader("Primeira música: Year Zero:")
 st.html('<div id="year-zero"></div>')
 st.video("Musicas/lv_0_20260712164740.mp4")
 st.caption("Vídeo da música Year Zero")
+st.write("Creditos: Ghost B.C")
 conteudo_site = [
     "Bem vindos ao site oficial de Sonic Palace of Scorpions!",
     "Primeira música: Year Zero:",
     "Vídeo da música Year Zero"
+    "creditos: Ghost B.C"
 ]
 
 if pesquisa:
