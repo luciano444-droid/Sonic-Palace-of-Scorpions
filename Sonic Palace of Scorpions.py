@@ -21,6 +21,7 @@ conteudo_site = [
     "Bem vindos ao site oficial de Sonic Palace of Scorpions!",
     "Primeira música: Year Zero:",
     "Vídeo da música Year Zero"
+    "creditos: Ghost B.C"
 ]
 
 if pesquisa:
