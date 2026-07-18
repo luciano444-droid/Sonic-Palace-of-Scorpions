@@ -20,7 +20,8 @@ st.write("Creditos: Ghost B.C")
 st.divider()
 st.subheader("Segunda Musica: This Is My Song: ")
 st.video("Musicas/km_20260714-2_1080p_30f_20260714_135737.mp4")
-st.caption("Thi is my song")
+st.caption("This is my song")
+st.write("Creditos: This is my song")
 conteudo_site = [
     "Bem vindos ao site oficial de Sonic Palace of Scorpions!",
     "Primeira música: Year Zero:",
